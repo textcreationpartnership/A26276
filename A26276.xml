@@ -1,0 +1,264 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at Welde-House, in His Excellency the Spanish Ambassador's chapel: on the third Sunday of Advent, December 12. 1686. By the Reverend Father Br. James Ayray, Friar Minor of the Holy Order of St. Francis, chaplain and preacher in ordinary to His Excellency. With allowance and special order of superiors.</title>
+            <author>Ayray, James.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26276</idno>
+            <idno type="STC">Wing A4297A</idno>
+            <idno type="STC">ESTC R208687</idno>
+            <idno type="EEBO-CITATION">99825418</idno>
+            <idno type="PROQUEST">99825418</idno>
+            <idno type="VID">29800</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26276)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29800)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 1772:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at Welde-House, in His Excellency the Spanish Ambassador's chapel: on the third Sunday of Advent, December 12. 1686. By the Reverend Father Br. James Ayray, Friar Minor of the Holy Order of St. Francis, chaplain and preacher in ordinary to His Excellency. With allowance and special order of superiors.</title>
+                  <author>Ayray, James.</author>
+               </titleStmt>
+               <extent>[4], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for William Grantham, book-seller in Cock-pit-Alley, near Welde-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first leaf (actually A4 folded around) is blank.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:29800:1"/>
+            <pb facs="tcp:29800:1"/>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> SERMON Preached at Welde-Houſe, In His Excellency the <hi>Spaniſh</hi> Ambaſſador's Chapel: On the Third <hi>Sunday</hi> of <hi>ADVENT, December</hi> 12. 1686.</p>
+            <p>By the Reverend Father <hi>Br. JAMES AYRAY,</hi> Friar Minor of the Holy Order of St. <hi>Francis,</hi> Chaplain and Preacher in Ordinary to His EXCELLENCY.</p>
+            <p>
+               <hi>With Allowance and ſpecial Order of Superiors:</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>William Grantham,</hi> Book-ſeller in <hi>Cock-pit-Alley,</hi> near <hi>Welde-ſtreet.</hi> 1686.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:29800:2"/>
+            <pb n="1" facs="tcp:29800:2"/>
+            <head>A SERMON Preached at <hi>WELDE-HO<g ref="char:V">Ʋ</g>SE,</hi> In His Excellency the <hi>Spaniſh</hi> Ambaſſa<g ref="char:EOLhyphen"/>dor's Chapel: On the Third <hi>Sunday</hi> of <hi>Advent, December</hi> 12. 1686.</head>
+            <epigraph>
+               <q>Tu quis es?</q>
+               <q>
+                  <hi>Who art thou?</hi>
+               </q>
+               <bibl>John 1. v. 19.</bibl>
+            </epigraph>
+            <p>THE great Saint <hi>Auguſtin</hi> was of Opi<g ref="char:EOLhyphen"/>nion, That that Man had his judg<g ref="char:EOLhyphen"/>ment beſt placed, who leſs eſteem<g ref="char:EOLhyphen"/>ing the Science of all things elſe, did make it his chiefeſt ſtudy perfectly to know himſelf: And that a Soul was to be condemned, who without making an inqui<g ref="char:EOLhyphen"/>ſition into her own infirmities, did trifle a<g ref="char:EOLhyphen"/>way her time in learning the ſecret, and leſs uſeful courſe of the Stars, and ſtill remained
+<pb n="2" facs="tcp:29800:3"/>ignorant of the true way to Heaven. Grant and allow to worldly knowledge the beſt and greateſt advantages imaginable, yet ſtill this unavoidable miſery attends the grandeur of it, That the moſt profitable perquiſits ceaſe when life doth laſt no longer: and that what was acquired with the expence of great labour and pains, meaſuring out the ſhortneſs of Man's breath only, remains no more, nor is to be found after Death.</p>
+            <p>The devout Saint <hi>Bernard,</hi> writing to Pope <hi>Eugenius,</hi> doth humbly ſuggeſt unto him, <hi>That the gain of an <g ref="char:V">Ʋ</g>niverſe would never coun<g ref="char:EOLhyphen"/>tervail the loſs of a Man's own ſelf.</hi> Read over and perfectly underſtand all the Scriptures; meaſure the Heavens from Eaſt to Weſt; ſpan the whole circumference of the Earth; ſound and fathom the briny deep; and be ill read in the ſcience of <hi>Noſce teipſum;</hi> be ignorant, <hi>tu quis es,</hi> and you'll reſemble a Man who build<g ref="char:EOLhyphen"/>ing upon a Quick-ſand, expoſes his Foun<g ref="char:EOLhyphen"/>dation to certain ruine: <hi>ſo that only he hath wiſdom, who is wiſe for himſelf,</hi> and ſuffers not the anxious care of learning things leſs important to turn to his own prejudice: <hi>A te<g ref="char:EOLhyphen"/>ipſo tua incipiat conſideratio, in to finiatur, tu ti<g ref="char:EOLhyphen"/>bi primus, tu ultimus; non os ſapiens ſi tibi non es:</hi> Theſe are the words of St. <hi>Bernard.</hi>
+            </p>
+            <p>The miraculous birth of St. <hi>John</hi> the Bap<g ref="char:EOLhyphen"/>tiſt, to whom the Jews do ſend a ſolemn Em<g ref="char:EOLhyphen"/>baſſy in this days Goſpel, the holineſs, and
+<pb n="3" facs="tcp:29800:3"/>auſterity of his life, his retreat in ſolitude, and his divine preachings, are the occaſion why they doubt whether he be the <hi>Meſſias</hi> ſo long expected: and therefore ſending their Prieſts and Levites demand of him, <hi>Tu quis es?</hi>
+               <note place="margin">John 1.19.</note> Who art thou? And this great Saint, great in the ad<g ref="char:EOLhyphen"/>mirable ſcience of <hi>Noſce teipſum,</hi> waving all the Titles of Honour due to his Character, gives a ſlender account of himſelf, and ſaith only that he is a voice,
+<note place="margin">John 1.23.</note> 
+               <hi>vox clamantis in deſer<g ref="char:EOLhyphen"/>to:</hi> manifeſting by this anſwer of his, That he did perfectly underſtand all the weakneſs and infirmities incident to Humane Nature. And let our condition in this World be never ſo Elevated, our imploys never ſo Glorious, the advantages of our Lives and Fortunes ne<g ref="char:EOLhyphen"/>ver ſo Illuſtrious, we are ſtill ſo inconſidera<g ref="char:EOLhyphen"/>ble, that wanting all Solidity, we paſs like a voice that is diſſipated by the Wind. It is this important <hi>knowledge of our ſelves,</hi> that I would have this pious Auditory to learn of the great Precurſor of our Saviour; ſome precepts of which Science I ſhall here deliver unto them, after having invocated the Aſſiſtance of the Holy Ghoſt, through the interceſſion of the moſt knowing Diſciple in this School; the ever Bleſſed Virgin <hi>Mary</hi> I mean, who ſtiled her ſelf a Hand-maid, when the Angel did Salute her full of Grace, <hi>Ave Maria.</hi>
+            </p>
+            <pb n="4" facs="tcp:29800:4"/>
+            <p>It is too true that Man doth know every thing better, and himſelf leſs than all things: whereas did he know himſelf well, he would know all things elſe to perfection. <hi>Quid est noſſe ſeipſum, quam totius mundi naturam noſſe,</hi> ſaith <hi>Photius</hi> in his <hi>Bibliotheca:</hi> Man in know<g ref="char:EOLhyphen"/>ing himſelf, would know the Nature of all the World; and diving into the Eternal Secrets, he would there be informed of all the Divine De<g ref="char:EOLhyphen"/>crees framed by the Almighty, for the good of the Univerſe; he would there learn, that when God did build that wonderful Structure above us, adorning and embelliſhing it with ſo many glorious Lights; when he extracted this dry Land from the brackiſh Element, inhabi<g ref="char:EOLhyphen"/>ted with Beaſts and Birds, Checquered and Enamel'd with Flowers and Woods; when he made that admirable mixture of the <hi>Four Elements,</hi> and ſo mutually Incorporated them with one another, he would learn that all the Productions which he then Created were all for Man, and Man he deſigned ſolely for himſelf.</p>
+            <p>The Saints, who have been Educated in this School, and there commenced Maſters, have left behind a certain and clear method for the Acquiſition of this Science. Conſider, ſaith the Devout Saint <hi>Bernard,</hi> from whence you came, and the contemplation of that vile and ignoble Nothing, out of which you did firſt derive your Origine, will be the ſubject of
+<pb facs="tcp:29800:4"/>
+               <pb facs="tcp:29800:5"/>
+               <pb n="5" facs="tcp:29800:5"/>your Shame and Confuſion: Regard your pre<g ref="char:EOLhyphen"/>ſent State, and this place of Baniſhment, with the dangerous diſaſters that ſurround you, will Adminiſter unto you matter of Lamenta<g ref="char:EOLhyphen"/>tion: Call to mind the Journey you are to take, ſurvey the Tomb where you are to be ſerved up meat for the Worms: Or, take a ſtep fur<g ref="char:EOLhyphen"/>ther, and at a diſtance look on Hell, where your poor Soul (which God forbid) may be the eternal ſubject of Tormenting Flames. Or if you had rather arrive to this ſcientifical and moſt beneficial Knowledge, by examin<g ref="char:EOLhyphen"/>ing the ſeveral Stations of your own Life, the Paſt, the Preſent, and the time to Come, make ſome ſerious reflections on the vain and unprofitable uſe, and the inconſiderable advan<g ref="char:EOLhyphen"/>tages you have made of the time paſt: Conſider how great a circumſpection is requiſite for the time preſent, and what Proviſions you ought to make for the time to come: The Profit we have already reap'd in time paſt is ſo little, that it ſeems never to have been; we muſt be cautious in the time preſent, which imper<g ref="char:EOLhyphen"/>ceptibly doth paſs away; and a prudent fore<g ref="char:EOLhyphen"/>caſt for the future requires an ample provi<g ref="char:EOLhyphen"/>ſion: Theſe three conſiderations ſhall be the three points of our preſent entertainment; the Oeconomy of this Day's Diſcourſe, and the Subject of your pious and favourable atten<g ref="char:EOLhyphen"/>tion.</p>
+            <div n="1" type="part">
+               <pb n="6" facs="tcp:29800:6"/>
+               <head>PART I.</head>
+               <p>THE greateſt Misfortune that can be<g ref="char:EOLhyphen"/>fall poor Man, is to let his Days and Years unprofitably paſs away, reſembling little Children, who unhappily die before they are fit to taſte the Sweets of Life: The moſt numerous part of Mortals are deprived of vital Breath, before they attain the know<g ref="char:EOLhyphen"/>ledge of living well; and notwithſtanding they have meaſured over a long ſeries of ma<g ref="char:EOLhyphen"/>ny Years, yet they are ignorant why, and to what end they have ſo long enjoyed this com<g ref="char:EOLhyphen"/>mon Air. Holy <hi>Job</hi> doth ſuggeſt theſe my Thoughts,
+<note place="margin">Job c. 10.</note> 
+                  <hi>Fuiſſem quaſi non eſſem de utero tranſlatus ad tumulum:</hi> From the Cradle we are carried to the Tomb, and are hurried out the World, before we could well know the reaſon that firſt placed us in it; and forget<g ref="char:EOLhyphen"/>ing all paſt Tranſactions, we live tepidly; and without reforming the irregular courſe of our Life, may die full of Years, but Young in vertue.</p>
+               <p>What is once paſt can never be recall'd, it is as if it never had been; nor can God him<g ref="char:EOLhyphen"/>ſelf, make that Day return, whoſe ſucceed<g ref="char:EOLhyphen"/>ing Night hath once Eclips'd his Luſtre; recal to mind all your paſt Pleaſures, your Joys and Divertiſements, the Innocent Sweets you for<g ref="char:EOLhyphen"/>merly taſted with ſo great a guſt; and the whole remain lies lock'd up in your Memory,
+<pb n="7" facs="tcp:29800:6"/>without any ſign or mark elſe where. The Life of Man is like a Dream, and when a<g ref="char:EOLhyphen"/>waked by Death, he is convinced that the whole courſe of his Time hath been only Fan<g ref="char:EOLhyphen"/>cy and Illuſion;
+<note place="margin">
+                     <hi>Pſ.</hi> 75.</note> finding both his Hands em<g ref="char:EOLhyphen"/>pty after his ſuppoſed large poſſeſſions. <hi>Dor<g ref="char:EOLhyphen"/>mierunt ſomnum ſuum, &amp; nil invenerunt viri divitiarum in manibus ſuis.</hi> And can ſuch imaginary Smoak make us loſe the thoughts of Heaven, ſlight the menaces of our God, and diſpiſe his Friendſhip? Can we for the love of ſuch Trifles run the certain hazard of eternal Torments? <hi>Quid nobis profuit,</hi> ſay thoſe unhappy Souls now arrived to their laſt and diſmal home, <hi>Quid nobis profuit ſuper<g ref="char:EOLhyphen"/>bia, aut divitiarum jactantia quid nobis con<g ref="char:EOLhyphen"/>tulit? tranſierunt omnia illa tanquam umbra:</hi> The end of all our Pride, the rich and gaudy remains of all our Wealth, is an immortal regret for having fooled away our Hearts on ſuch airy Vanities. That Man whom to Day you ſee <hi>interred,</hi> hath all his Plea<g ref="char:EOLhyphen"/>ſures, with the empty titles of his Ho<g ref="char:EOLhyphen"/>nour, wrapt up in a <hi>Funeral Shrowd;</hi> and a <hi>Winding-ſheet</hi> will be the only portion ſhall fall to your lot of all thoſe ample Poſſeſſions you now enjoy with ſo much Paſſion.</p>
+               <p>Notwithſtanding, what is paſt can never be recalled, and is in effect as if it never had been; yet once it had a Being, and ſuch a one as all the Powers under Heaven can never
+<pb n="8" facs="tcp:29800:7"/>deface, or take away. Saint <hi>Bernard</hi> hath well expreſſed this in his Firſt Book of <hi>Conſidera.</hi> and 12. Chap. <hi>Quae priora tranſierunt &amp; non tranſie<g ref="char:EOLhyphen"/>runt, tranſierunt a manu &amp; non tranſierunt a men<g ref="char:EOLhyphen"/>te.</hi> Our paſt actions leave behind them their e<g ref="char:EOLhyphen"/>ternal Species in our mind; nor can the damned in Hell during the long ſpace of a whole Eter<g ref="char:EOLhyphen"/>nity,
+<note place="margin">L. 5. <hi>de con<g ref="char:EOLhyphen"/>ſid.</hi> c. 12.</note> deface the Memory of an action perpe<g ref="char:EOLhyphen"/>trated in a moment. <hi>Quod factum eſt,</hi> ſaith the ſame St. <hi>Bernard, factum non eſſe non po<g ref="char:EOLhyphen"/>teſt, proinde &amp; ſi facere in tempore fuit, ſed fe<g ref="char:EOLhyphen"/>ciſſe in ſempiternum manet:</hi> Let the greateſt diſcretion moderate, and be the rule of your Life, imitate the Saints themſelves in their per<g ref="char:EOLhyphen"/>fection, yet all your endeavours may, indeed, make ſatisfaction, but can never obliterate a Crime once committed. The greateſt, per<g ref="char:EOLhyphen"/>haps, amongſt the Pains in Hell, is that Sem<g ref="char:EOLhyphen"/>piternal remorſe, the perpetual Remembrance of a paſt Crime foments in the troubled minds of thoſe afflicted Souls: And that Worm that eats and tears their diſturbed Breaſts, is a Torture above infernal Puniſhments. The memory of a Crime guilty of their Eternal Ruine, begets a Grief beyond expreſſion, and the impoſſibility of a recalling creates a diſpair not to be decyphered; but the ſtrange conſequences that follow ſuch light beginnings and the Eternity of Torments which muſt make an everlaſting amends for a momentary fault will certainly extort a moſt horrid Rage.</p>
+               <pb n="9" facs="tcp:29800:7"/>
+               <p>The Succeſſion of things denote the Beauty of Order; and one thing preceeding the o<g ref="char:EOLhyphen"/>ther doth hinder confuſion. But the mind of Man receives and retains innumerable things without a burden, and rememorating things of an ancient ſtanding, ſtill reſerves the ſpecies newly imprinted. Contemplate the Collection of all your paſt Actions, and ſee what a ſtore of Iniquities you have there laid up: Turn over the great Wardrobe of your paſt Crimes, and you will find it fill'd with Lumber, with ſcarce any moveables worth regarding. Should God communicate unto you the perfect knowledge of one ſingle Sin: Should he let you ſee that the Enormity of it is infinite, becauſe committed againſt a Majeſty that is infinite, the horror you would conceive would be extream; and the deformity of one Crime, rightly underſtood, is able to diſturb a Brain moſt juſtly ſeated. What then ſhall the terror be, to ſee all the Vices of our former Days ſtand rank'd in or<g ref="char:EOLhyphen"/>der, and all their Uglineſs attending on them, repreſented to our view in Shapes moſt diſmal? To behold all our ill Thoughts, our ſinful Deſires, our vicious Habits, our immo<g ref="char:EOLhyphen"/>deſt Diſcourſes, our unjuſt Dealings, our De<g ref="char:EOLhyphen"/>ceits and Lyings, our Pride and Vanity, all our Diſtractions and Irreverences in the pre<g ref="char:EOLhyphen"/>ſence of our God, the Good we have neg<g ref="char:EOLhyphen"/>lected, and the Ill we have done, with a
+<pb n="10" facs="tcp:29800:8"/>thouſand other things, which will then di<g ref="char:EOLhyphen"/>ſtinctly ſhew themſelves in their moſt de<g ref="char:EOLhyphen"/>formed dreſs? How great will then your ter<g ref="char:EOLhyphen"/>ror be,
+<note place="margin">Job 15.14.</note> your aſtoniſhment and confuſion? <hi>Ter<g ref="char:EOLhyphen"/>rebit eum tribulatio;</hi> by how much the more ſatisfaction you did receive in the perpetrati<g ref="char:EOLhyphen"/>on, by ſo much greater ſhall be your pain, and the diſtaſte you thence derive, equali<g ref="char:EOLhyphen"/>zing the pleaſure you formerly had, ſhall augment your Grief, and Torment as much as heretofore they pleaſed you.</p>
+               <p>This Landskip of your paſt Life expoſed to view, whilſt the Eyes of your Soul con<g ref="char:EOLhyphen"/>template the vanity of your conduct make ſome reflections on the words of St.
+<note place="margin">Rom. 6.21</note> 
+                  <hi>Paul, Quem ergo fructum habuiſtis tunc in illis, in quibus nunc erubeſcitis? nam finis illorum mors est.</hi> What Fruit, therefore, had you then in thoſe things, for which now you are aſhamed? for the end of them is Death. If you cannot think on paſt Crimes, ſaith St. <hi>John Chryſoſt.</hi> without confuſion, your ſtock of Impudence muſt needs have been large, when you did commit them; and tho then your Paſſion did pervert your Judgment, and Pleaſure, or Complaiſance did induce you to pleaſe your Senſe, or Man before your God; yet the con<g ref="char:EOLhyphen"/>ſtruction you afterwards ſhall frame, will cer<g ref="char:EOLhyphen"/>tainly be oppoſite to your firſt Opinion, when you ſhall find that Grief and Confuſion will be the only remnant of all your Poſſeſſions.</p>
+               <pb n="11" facs="tcp:29800:8"/>
+               <p>Reflect on the inceſtuous <hi>Amnon,</hi> whoſe Love changing countenance, his Paſſion be<g ref="char:EOLhyphen"/>ing once ſatisfied, did hate his Siſter <hi>Tha<g ref="char:EOLhyphen"/>mar,</hi> more than ever he had affection for her, <hi>Ita ut majus eſſet odium quo oderat eam,</hi>
+                  <note place="margin">2 K. 13.</note> 
+                  <hi>a<g ref="char:EOLhyphen"/>more quo ante dilexerat.</hi> Our firſt Parents had no ſooner committed that Sin, the guilt of which they left as a Patrimony to all their Children, but their Eyes open<g ref="char:EOLhyphen"/>ing, they did diſcover their own Miſery, and fled each others ſight. You who lead a vitious Life, and whoſe ſinful Converſation doth grow into a Habit, I fear you are not truly ſenſible of that diſpleaſure which always ſprings from Vice; nor do you foreſee thoſe Evils, the Seeds of which you have already Sowed, and even now begin to Bloſſom. Thus you ſee the income of your paſt Actions, and the Harveſt you are to Reap of all your time ill ſpent, is confuſion here or worſe here<g ref="char:EOLhyphen"/>after: For all your Sins muſt here meet with a Pennance equal to your Life, or a Puniſhment as long as Eternity. Follow therefore the ad<g ref="char:EOLhyphen"/>vice of the Philoſopher, <hi>non tanti emo poenitere,</hi> this Repentance is of too high a price for me to purchaſe. And ſince the Fruits of your paſt La<g ref="char:EOLhyphen"/>bours have been but inconſiderable, be circum<g ref="char:EOLhyphen"/>pect and cautious, and retrieve your loſs with a prudent diſtribution of the time preſent, which is my ſecond Point.</p>
+            </div>
+            <div n="2" type="part">
+               <pb n="12" facs="tcp:29800:9"/>
+               <head>PART II.</head>
+               <p>THE extent of Man's Dominion is in<g ref="char:EOLhyphen"/>conſiderable and ſhort; and of all thoſe Days that compoſe his Life, only the time preſent is in his Power; the paſt is now no more, and the future is yet to come; ſo that he is maſter only of the time which now is, and that too is carried on ſuch ſwift Wings as out-run his Thoughts, and leaving no ſpace for Conſideration, out-ſtrip fancy it ſelf: the Flaſhes of Lightning that pierce the Clouds: an Arrow that cleaves the Air: a Ship which with wonderful ſwiftneſs Plows the ſalt Waves, and driven by an impetu<g ref="char:EOLhyphen"/>ous Gale doth till the deep: the Stars them<g ref="char:EOLhyphen"/>ſelves who with their rapid courſe do run through ſpaces immenſe in an inſtant, are only light expreſſions of that prodigious ſwiftneſs, wherewith the time preſent doth fly away: it is an inſtant imperceptible, im<g ref="char:EOLhyphen"/>poſſible to be cut in two: it is a Now, which is now no more, no ſooner here but preſently gone, and dividing it ſelf between the paſt and the future, reſerves only a point to ſave the denomination of preſent; and yet this ſingle point is the only thing at our com<g ref="char:EOLhyphen"/>mand; and our Orders reaching no further, we can only diſpoſe of this imperceptible Now; and the deciſion of our future bliſs or
+<pb facs="tcp:29800:9"/>
+                  <pb facs="tcp:29800:10"/>
+                  <pb n="13" facs="tcp:29800:10"/>pain doth really depend on this ſo momen<g ref="char:EOLhyphen"/>tary a durance, <hi>ex hoc momento pendet aeter<g ref="char:EOLhyphen"/>nitas.</hi>
+               </p>
+               <p>Methinks I ſee the King in the Goſpel di<g ref="char:EOLhyphen"/>viding his Wealth amongſt his Servants, and reading a Lecture of Negotiation unto them, <hi>negotiamini dum venio,</hi>
+                  <note place="margin">Luk. 19.13</note> improve theſe Ta<g ref="char:EOLhyphen"/>lents I now leave with you, and your gain may eaſily double the Principal; make a provident uſe of your preſent time, and your increaſe may reach the infinite: but be ſure not to let this occaſion imprudently paſs, for <hi>amplius non erit tempus.</hi>
+                  <note place="margin">Apoc. 10.6</note> It is bald behind; and once let ſlip, will probably never offer it ſelf again: <hi>poſt eſt occaſio calva.</hi> It is a Folly next to madneſs, founding your ſelves upon deceitful hopes to delay your Pen<g ref="char:EOLhyphen"/>nance to an imaginary Hereafter, and to put off the important affairs of an eternal con<g ref="char:EOLhyphen"/>cern, to a time which ſhall, perhaps, never be. How many poor Souls are there now frying in Hell Flames, becauſe after once they had unhappily Sinned againſt their God, they wilfully ſlighted the offered occaſion of one favourable inſtant, alloted them by Mer<g ref="char:EOLhyphen"/>cy for a reconciliation.</p>
+               <p>Oh! How the favours of our God are great, who prolonging our Lives doth ſollicit our hard Hearts by his divine Inſpirations, to make good uſe of our preſent time, and con<g ref="char:EOLhyphen"/>tinuing us in this Pilgrimage of the Land of
+<pb n="14" facs="tcp:29800:11"/>the Living, the way to eternal bliſs, doth afford us means neceſſary to redreſs the diſ<g ref="char:EOLhyphen"/>orders of our ill regulated Conſciences, and lay up the ſtore requiſite for Heaven: <hi>ex hoc momento pendit aeternitas.</hi>
+               </p>
+               <p>Whatever we have been heretofore, or whatſoever we are like to be hereafter, doth not fall under the conſideration of our God: He will forget our paſt Crimes, which a true Repentance hath caſhier'd: He doth not con<g ref="char:EOLhyphen"/>ſider what we may arrive to be, but as he doth actually find us, ſo he frames his Judg<g ref="char:EOLhyphen"/>ment. Paſs therefore a general review, and take a full cognizance of all your Spiritual concerns, and learn from thence what reaſon you have to hope or fear: See how you ſtand with your Obligations, and what eſteem you have had of works of Council and Super<g ref="char:EOLhyphen"/>errogation.</p>
+               <p>Conſult your Conſcience and pronounce Sentence againſt your ſelf, it is the only way to avoid the ſeverity of the Divine De<g ref="char:EOLhyphen"/>crees;
+<note place="margin">1 Cor. 11.28.</note> 
+                  <hi>probet autem ſeipſum homo,</hi> ſee if any mortal Sin lieth yet knowingly concealed; whether Envy or Hatred, or any impure Deſires lie covered in your Breaſt; if in frequenting the Sacraments you have not committed ſome Sacrilege, and prophanely abuſed to your own Damnation, thoſe things which were inſtituted a means to purchaſe Heaven; if your affections lean not too
+<pb n="15" facs="tcp:29800:11"/>much to the Creature, and, diſpiſing your God, pay the Tribute of your Adoration to an unworthy object.</p>
+               <p>If this review convince you faulty, if this Scrutiny diſcover defects in you, baniſh all delays, and let this preſent ſeaſon be the ſerious moment of your Reformation: The obſtacles you do now meet with, hereafter will wax but ſtronger; and the now offered Graces will be leſs frequent, and not ſo effica<g ref="char:EOLhyphen"/>cious; your vitious Habits will grow into a ſecond Nature; and Sin it ſelf taking hold more firmly, will very hardly be rooted out. <hi>Modo, modo,</hi>
+                  <note place="margin">St. <hi>Aug.</hi>
+                  </note> 
+                  <hi>&amp; illud modo non habebat mo<g ref="char:EOLhyphen"/>dum,</hi> ſaid heretofore a great Sinner, tho' now a great and glorious Saint; By and by, preſently, and yet this by and by did ſee the length of many days expire, (ſo hard it is, ſeriouſly, to go about the work of a true Con<g ref="char:EOLhyphen"/>verſion:) what you now do: <hi>Qui hodie non est, cras minus aptus erit.</hi> For hereafter you will not be able, at leaſt not more will<g ref="char:EOLhyphen"/>ing: You will want time; or if you have that, you may be deſtitute of Grace; if Grace preſent it ſelf, your Will accuſtomed alrea<g ref="char:EOLhyphen"/>dy to refuſe, will then not know how to comply. Hell is full of Spirits, who preſum<g ref="char:EOLhyphen"/>ing on the Mercies of the Almighty; let ſlip the bleſſed time of their Converſion; and neglecting what was in their power, grounded their Repentance upon the contin<g ref="char:EOLhyphen"/>gency
+<pb n="16" facs="tcp:29800:12"/>of uncertainties:
+<note place="margin">Apoc. 10.6</note> 
+                  <hi>amplius non erit tem<g ref="char:EOLhyphen"/>pus.</hi> Now they'll have leiſure to Lament and Weep their fill. Heaven's Gate is ſhut, and the Treaſures of divine Mercies are all lock'd up.</p>
+               <p>Examine the preſent State of your Soul, and look into your former Life, and ſee what progreſs you have made: I fear you will have reaſon to ſay with Holy <hi>Job, Quis mihi det ut ſim juxta menſes priſtinos:</hi>
+                  <note place="margin">Job 29.2.</note> would to God the Comportment of my former Years were now diſcernable in my Behaviour; or that my Carriage at this Age, were ſuitable to the Modeſty of my Youth.</p>
+               <p>That Man who aimes at little, is with a<g ref="char:EOLhyphen"/>ny thing ſatisfied; and he who will do on<g ref="char:EOLhyphen"/>ly what he is bid, grows Lazy and eaſily neg<g ref="char:EOLhyphen"/>lects his Duty; and, notwithſtanding all the projects he may have for the future, he ſtill remains in the ſame condition, without any ſign of a better fortune: He doth truly reſemble thoſe <hi>Jews,</hi> who when deſired to repair the Temple,
+<note place="margin">Agg. 1.2.</note> anſwered, <hi>Nondum ve<g ref="char:EOLhyphen"/>nit tempus:</hi> The time was not yet come: So wretched Man is ſtill put off with, It is not yet time: as ſoon as I ſhall have ſetled my Affairs in the World: as ſoon as my Chil<g ref="char:EOLhyphen"/>dern ſhall be diſpoſed off: as ſoon as I ſhall purchaſe this Eſtate, that Office, that Im<g ref="char:EOLhyphen"/>ploy: as ſoon as I ſhall have gained this
+<pb n="17" facs="tcp:29800:12"/>Law Suit: as ſoon as I ſhall be at liberty, and free from the Cares and Troubles of the World, I will then begin to think of ſerving God, and ſtudy the Advancement of my own Soul.</p>
+               <p>But, <hi>Quis es tu?</hi> who are you inconſide<g ref="char:EOLhyphen"/>rate Creatures, that do thus Capitulate with Heaven, and impoſing meaſures on your God, do lay your vain and fruitleſs Pro<g ref="char:EOLhyphen"/>jects for Eternity?
+<note place="margin">2 Cor. 6.2.</note> 
+                  <hi>Ecce nunc tempus accepta<g ref="char:EOLhyphen"/>bile:</hi> Behold now is the time acceptable: The future as yet is not, and, perhaps, will have no Being for you, but in your own ſenceleſs phancy: Nay, ſhould it ever find an exiſt<g ref="char:EOLhyphen"/>ence, it may be incumbered with more and greater obſtacles than now you meet with. When thoſe imaginary deſigns are brought to paſs, which now ſo powerfully impede your progreſs in the way of Vertue, that working head of yours ſhall be fit to create new diffi<g ref="char:EOLhyphen"/>culties ten times more intricate and hard. Your cares and ſolitudes, your more urgent occaſions, if you make a right uſe of them, will rather further you in the way to Vertue; and what you now falſly deem a hin<g ref="char:EOLhyphen"/>drance, will certainly promote perfection. All things do aſſiſt and co-operate with the Juſt; <hi>omnia co-operantur in bonum iis,</hi>
+                  <note place="margin">Rom. 8.28</note> 
+                  <hi>qui ſe<g ref="char:EOLhyphen"/>cundum propoſitum vocati ſunt ſancti:</hi> and drawing advantages from all occurrences, they providently do lay up a plentiful provi<g ref="char:EOLhyphen"/>ſion
+<pb n="18" facs="tcp:29800:13"/>for the future: Which is my Third and Laſt Point.</p>
+            </div>
+            <div n="3" type="part">
+               <head>PART III.</head>
+               <p>THis future or time to come, beſides that it doth hold us in ſuſpence, uncertain of our end, whether good or bad, giveth us moreover reaſon to queſtion, whether there ſhall ever be any time to come for us at all; how it may continue; and if its like to be fa<g ref="char:EOLhyphen"/>vourable or averſe.</p>
+               <p>The Son of God in the Goſpel, doth com<g ref="char:EOLhyphen"/>mand us ſtill to be upon our guard; becauſe we are wholly ignorant, not only of the hour that muſt put a Period to our life, but even of the day that is to be witneſs to our death; <hi>vigilate quia neſcitis diem neque horam.</hi>
+                  <note place="margin">Matth. 25.13.</note> And Holy Writ doth ſuggeſt unto us one fatal moment, which will turn all the delights of this world into bitterneſs. <hi>Et in puncto deſcen<g ref="char:EOLhyphen"/>dant in infernum.</hi> They whoſe chiefeſt ſtu<g ref="char:EOLhyphen"/>dy is an idle indulgence of their own ſloth<g ref="char:EOLhyphen"/>ful eaſe, and who ſenceleſsly content them<g ref="char:EOLhyphen"/>ſelves in the injoyment of vain worldly Plea<g ref="char:EOLhyphen"/>ſures, do often find themſelves graſped with the cold hands of a ſudden death, when they imagined themſelves moſt ſecure; and in a moment they make a moſt ſorrowful change, parting with their darling Earth for the flames of a Hell Fire;
+<note place="margin">Job 21.13.</note> 
+                  <hi>Et in puncto deſcendunt in infer<g ref="char:EOLhyphen"/>num.</hi>
+               </p>
+               <pb n="19" facs="tcp:29800:13"/>
+               <p>All the moments of our life are ſubject to the deciſive ſtroke of Death, and every hour may ſend us a melancholy meſſenger to Eternity: And as in time paſt every moment might have been our laſt, ſo in this time to come every particle may be the ſad beginning of our mi<g ref="char:EOLhyphen"/>ſery. Wherefore be always watchful, and keep your ſelves always in ſuch a ſtate as may ſend you to an Eternity that may be happy and not unfortunate; let not Death ſurprize you unprovided, leſt that very in<g ref="char:EOLhyphen"/>ſtant you deſign'd for Vice, be the laſt of your ſinful life, and the firſt of your pains.</p>
+               <p>The continuance of this future Hereafter is uncertain, and ſhould it conduct our gray hairs to the cold Tomb, its durance were but a day in reſpect of Eternity;
+<note place="margin">
+                     <hi>Pſ.</hi> 89.</note> 
+                  <hi>tanquam dies heſterna quae praeteriit.</hi> Imagine what's to come, by what's already paſt; and by that dram of life which hitherto you have lived, gueſs at the inſtability of what's to come hereafter. How ſtupid then muſt that Man be, whoſe chiefeſt deſign is to frame a wretch<g ref="char:EOLhyphen"/>ed Fortune here, and (expoſing himſelf to a thouſand hazzards,) finds himſelf with all his projects daſh'd in an inſtant? Oh! were it not much better, and more ſecure, to labour for an Eternity of Bliſs, and ſtudying to in<g ref="char:EOLhyphen"/>creaſe your Fortune, lay the foundations of it in a kingdom that will laſt for ever.</p>
+               <pb n="20" facs="tcp:29800:14"/>
+               <p>Holy <hi>Job,</hi> when moſt of all favoured with Proſperity, dreaded the unlucky ſtrokes of Adverſity; and being ignorant of the event, ſtill remain'd prepared for the worſt of acci<g ref="char:EOLhyphen"/>dents;
+<note place="margin">Job 3.25.</note> 
+                  <hi>timor quem timebam evenit mihi, &amp; quod verebar accidit.</hi> A prudent force-ſight renders Evils leſs troubleſome, and a prepared Will receives Misfortunes with a greater calm<g ref="char:EOLhyphen"/>neſs; <hi>minus jacula feriunt quae praevidentur.</hi> A Will perfectly reſigned, kiſſeth the Rod be<g ref="char:EOLhyphen"/>fore it ſtrikes, and placeth the diſaſters of this life in the number of Celeſtial Favours: It is arm'd by Providence againſt the worſt, and plainly diſcovers the hand of God in all its Accidents; and intirely relying on Divine Wiſdom, leaves it ſelf to be conducted by that God, whoſe Eternal Decree was the happineſs of his Creatures;
+<note place="margin">1 Tim. 2.1</note> 
+                  <hi>omnem hominem vult ſal<g ref="char:EOLhyphen"/>vum facere.</hi>
+               </p>
+               <p>If doubts and fears ſtill attend the preſent ſtate of our Affairs, the expectation of our E<g ref="char:EOLhyphen"/>ternity muſt needs be anxious: none can dive at once into all the parts of his life, much leſs can he know his end. I will now ſuppoſe you good, believe you vertuous, and deſer<g ref="char:EOLhyphen"/>ving a <hi>Celeſtial Crown</hi> for your Duty and Obe<g ref="char:EOLhyphen"/>dience to your God: But who knows the diſ<g ref="char:EOLhyphen"/>orders that may follow a Will ſubject to in<g ref="char:EOLhyphen"/>conſtancy; and a mind impatient of com<g ref="char:EOLhyphen"/>mand, may at length ſpurn at Heaven, and contemn the Orders of his Maker.</p>
+               <pb n="21" facs="tcp:29800:14"/>
+               <p>
+                  <hi>Solomon,</hi> the Son of ſo great a Father, the miracle of Wiſdom, indowed with a Know<g ref="char:EOLhyphen"/>ledge from above, did lay ſo glorious begin<g ref="char:EOLhyphen"/>nings as the World never knew, or ſhall ever be acquainted with: ſtrayed at laſt out of the way, began a Sinful Journey, and ſuch Crimes he did there imbrace as gave occaſion to his laſting Poſterity to ſuſpect his final end. O Devout Chriſtians, <hi>Who are you,</hi> compared with this Prophet, and Son of a Prophet? <hi>Tu quis es?</hi> O never more preſume on your own force,
+<note place="margin">Phil. 2.12.</note> but let the Admonition of the Apoſtle be your guide, <hi>Cum metu &amp; tremore ſalutem veſtram operamini:</hi> With fear and trembling work your Salvation. Do not imi<g ref="char:EOLhyphen"/>tate thoſe perſons over confident, who pro<g ref="char:EOLhyphen"/>miſing themſelves the Joys of Heaven, do day by day remit the works of Pennance; and falſely think the extremity of Time ſuf<g ref="char:EOLhyphen"/>ficient to redreſs the many diſorders of their diſturbed Conſciences. Oh! unhappy Souls, you do but vainly imagine your Names regi<g ref="char:EOLhyphen"/>ſter'd in the Book of Life; for, for all you know, the Sentence of an eternal Death is ready to paſs upon you: Should you now at this very inſtant leave this Earthly Stage, the aſſu<g ref="char:EOLhyphen"/>rance you have of Heaven, would, perhaps, dwindle to a Nothing, and your big hopes be fruſtrated with an unexpected and ever<g ref="char:EOLhyphen"/>laſting Death. The great Saint <hi>Auguſtin</hi> was never ſo afflicted, as when the dubious in<g ref="char:EOLhyphen"/>quiry
+<pb n="22" facs="tcp:29800:15"/>of his eternal Inheritance moleſted his mind; and the deſire to know, how he might ſtand in the affections of his God, was a vexation that did perpetually torment him.
+<note place="margin">Eccl. 9.1.</note> 
+                  <hi>Nemo ſcit an odio dignus vel amore ſit.</hi> The Saints themſelves lived in perpetu<g ref="char:EOLhyphen"/>al apprehenſions; and the continual Alarms they receiv'd about their final Happineſs, did inceſſantly diſturb their quiet.</p>
+               <p>The Wiſe man doth frame for Mortals a Leſſon of Inſtruction, from the labours of the Induſtrious Ant, who laying up in Summer her neceſſary Proviſion, doth paſs the Win<g ref="char:EOLhyphen"/>ter in a greater Plenty. The profit of our paſt Actions is but ſmall,
+<note place="margin">Gal. 6.10.</note> if any; and if we intend to live for Heaven, <hi>dum tempus habemus operemur bonum,</hi> let us work whilſt we have time. Caſt an Eye back and reflect a little on the Anſwer Saint <hi>John</hi> made to the Prieſts and Phariſees in this days Goſpel,
+<note place="margin">Joh. 1.26.</note> 
+                  <hi>medius ve<g ref="char:EOLhyphen"/>ſtrum ſtetit quem vos neſcitis;</hi> there hath ſtood in the midſt of you one whom you know not. Conſider that God is always preſent with you, and it will be a bridle to curb the irregular mo<g ref="char:EOLhyphen"/>tions of your evil Paſſions, and ſquaring all thoſe Actions you ſhall then perform to the divine Rule, ſhall adorn them with a Recti<g ref="char:EOLhyphen"/>tude ſuitable to their Model.</p>
+               <p>I could wiſh I was able to perſwade you, that Almighty God is always with you; and when <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y foul Temptation doth ſollicite your
+<pb n="23" facs="tcp:29800:15"/>leſs-well-regarded heart, remember that God doth look upon you; and if ever you intend to be wicked, be ſo prudent in your own con<g ref="char:EOLhyphen"/>cerns and for your own ſake, as following the counſel of that great Light of the Church, Saint <hi>Augustin;</hi> Find out ſome obſcure place, where you may ſecretly commit your Crimes unſeen by Heaven: find out a Houſe of all the Town the leaſt regarded, and in the dark<g ref="char:EOLhyphen"/>eſt hole of that obſcure retreat, ſearch diligently into all the Beds and Chairs, leaſt your God lie there concealed; and if you can be ſo for<g ref="char:EOLhyphen"/>tunate as to find a place hid from his all pierc<g ref="char:EOLhyphen"/>ing Eyes, go there triumphantly, commit the worſt miſdeeds and eſcape unpuniſhed. But wretched Soul, if all the Manſion be full of Eyes, if God not only be in your Chamber,
+<note place="margin">
+                     <hi>Pſ.</hi> 115.9.</note> but in the very midſt of your own Self, <hi>eſt in medio tui,</hi> How dare you preſume to do that in his Preſence, which you would be aſhamed the Eyes of Man ſhould ſee?</p>
+               <p>It is not ſufficient to abſtain from evil Works, <hi>medius veſtrum stetit quem vos neſcitis:</hi> Al<g ref="char:EOLhyphen"/>mighty God is preſent with you, therefore <hi>lu<g ref="char:EOLhyphen"/>cernae ardentes in manibus veſtris,</hi> you muſt have lighted Candles in your Hands; and imitate<g ref="char:EOLhyphen"/>ing the prudent Virgins, your <hi>Lamps</hi> muſt be well <hi>ſtored with Oyles,</hi> your Deſigns muſt be the practice of good Works; and laying up a <hi>Treaſure</hi> for Eternity, you muſt endeavour by your Prayers, Faſts, Almes-Deeds, and the
+<pb n="24" facs="tcp:29800:16"/>Love of God to <hi>purchaſe</hi> Paradiſe. Your good <hi>Works</hi> alone will bear you company; and if your <hi>Proviſion</hi> be but ſmall, you'll have rea<g ref="char:EOLhyphen"/>ſon to apprehend an eternal Dearth. A wiſe Traveller provides a <hi>Viaticum</hi> proportionable to his Journey; and we are all bound for the new World, and our <hi>abode</hi> there is to exceed the length of time. Let us therefore be <hi>Provident,</hi> and make ſo good uſe of the time which now is, as we may redeem the time already loſt; and imploying the whole preſent to the beſt advantage, we make ſuch large and ample <hi>pro<g ref="char:EOLhyphen"/>viſions</hi> for the time to come, as injoying the Fruits of our Labours, through the Merits of our <hi>Lord</hi> and <hi>Saviour Jeſus,</hi> we may be ad<g ref="char:EOLhyphen"/>mitted to Praiſe and Glorifie him for an E<g ref="char:EOLhyphen"/>ternity with the Saints in Heaven; which God of his infinite Goodneſs grant us all. <hi>In the Name of the Father, and of the Son, and of the Holy Ghost.</hi> Amen.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:29800:16"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
